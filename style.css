@@ -1,0 +1,14 @@
+.bodychild{
+    height: 100vh;
+    width:100% ;
+}
+.minputfield input,input,form select{
+    border: black 1px solid;
+    padding-left: 12px;
+ 
+   border-radius: 15px;
+}
+form input{
+  
+    border-radius: 15px;
+}
