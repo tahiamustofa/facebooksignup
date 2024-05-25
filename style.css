@@ -12,3 +12,7 @@ form input{
   
     border-radius: 15px;
 }
+form .genoption{
+    border: black 1px solid;
+    border-radius: 15px;
+}
